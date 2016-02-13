@@ -1,5 +1,7 @@
 # The Naked Bundle
 
+[![Build Status](https://travis-ci.org/devdrops/the-naked-bundle.svg?branch=master)](https://travis-ci.org/devdrops/the-naked-bundle)
+
 Basic learnings and practices from the contents posted by [Matthias Noback](https://twitter.com/matthiasnoback) about clear and simple Symfony applications.
 
 ### Resources:
