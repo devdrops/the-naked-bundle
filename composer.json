@@ -4,7 +4,7 @@
     "type": "project",
     "description": "Basic learnings from the contents posted by Matthias Noback about keeping Symfony applications as clean as possible.",
     "autoload": {
-        "psr-4": { "AppBundle\\": "src/" },
+        "psr-4": { "": "src/" },
         "classmap": [ "app/AppKernel.php", "app/AppCache.php" ]
     },
     "autoload-dev": {
