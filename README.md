@@ -1,5 +1,6 @@
 # The Naked Bundle
 
+[![Codacy Badge](https://api.codacy.com/project/badge/grade/ac1175e823e24304afbd0a287b1628d9)](https://www.codacy.com/app/devdrops/the-naked-bundle)
 [![Build Status](https://travis-ci.org/devdrops/the-naked-bundle.svg?branch=master)](https://travis-ci.org/devdrops/the-naked-bundle)
 [![SensioLabsInsight](https://insight.sensiolabs.com/projects/17268fbb-7de5-4369-a097-d529fe5ee9f0/mini.png)](https://insight.sensiolabs.com/projects/17268fbb-7de5-4369-a097-d529fe5ee9f0)
 
