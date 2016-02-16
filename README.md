@@ -11,3 +11,6 @@ Basic learnings and practices from the contents posted by [Matthias Noback](http
 - [The Naked Bundle, from Symfony Live London on November 24, 2014](https://www.youtube.com/watch?v=nX3sBQhqfPs);
 - [The Naked Bundle, from Dutch PHP Conference, from June 26 to 28, 2014](http://www.slideshare.net/matthiasnoback/high-quality-symfony-bundles-tutorial-dutch-php-conference-2014).
 
+
+It's a nice test, eh?
+
