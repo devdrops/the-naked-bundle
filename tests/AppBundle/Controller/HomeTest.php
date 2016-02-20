@@ -4,6 +4,9 @@ namespace Tests\AppBundle\Controller;
 
 use Symfony\Bundle\FrameworkBundle\Test\WebTestCase;
 
+/**
+ * @group AppBundle
+ */
 class HomeTest extends WebTestCase
 {
     public function testIndex()

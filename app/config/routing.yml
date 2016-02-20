@@ -1,4 +1,15 @@
+# AppBundle
 home:
     path: /
     defaults: { _controller: default_controller:index }
+    methods: [GET]
+
+# UserBundle
+user_index:
+    path: /user
+    defaults: { _controller: user_controller:index }
+    methods: [GET]
+user_greeting:
+    path: /user/{name}
+    defaults: { _controller: user_controller:greeting }
     methods: [GET]
