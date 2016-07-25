@@ -1,5 +1,5 @@
 {
-    "name": "symfony/framework-standard-edition",
+    "name": "devdrops/the-naked-bundle",
     "license": "MIT",
     "type": "project",
     "description": "The \"Symfony Standard Edition\" distribution",
@@ -11,8 +11,7 @@
         "psr-4": { "Tests\\": "tests/" }
     },
     "require": {
-        "php": ">=5.5.9",
-        "symfony/symfony": "3.1.*",
+        "symfony/symfony": "2.8.*",
         "doctrine/orm": "^2.5",
         "doctrine/doctrine-bundle": "^1.6",
         "doctrine/doctrine-cache-bundle": "^1.2",
@@ -22,7 +21,6 @@
         "incenteev/composer-parameter-handler": "^2.0"
     },
     "require-dev": {
-        "sensio/generator-bundle": "^3.0",
         "symfony/phpunit-bridge": "^2.7"
     },
     "scripts": {
@@ -43,11 +41,6 @@
             "Sensio\\Bundle\\DistributionBundle\\Composer\\ScriptHandler::prepareDeploymentTarget"
         ]
     },
-    "config": {
-        "platform": {
-            "php": "5.5.9"
-        }
-    },
     "extra": {
         "symfony-app-dir": "app",
         "symfony-bin-dir": "bin",
@@ -57,9 +50,6 @@
         "symfony-assets-install": "relative",
         "incenteev-parameters": {
             "file": "app/config/parameters.yml"
-        },
-        "branch-alias": {
-            "dev-master": "3.0-dev"
         }
     }
 }
